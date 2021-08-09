@@ -116,5 +116,6 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-episode"
-    }
+    },
+    "domain": "https://doctrine-discovery-podcast-rev2-1812d.netlify.app"
 }
