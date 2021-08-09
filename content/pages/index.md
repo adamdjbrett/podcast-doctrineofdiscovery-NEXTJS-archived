@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to Mapping the Doctrine of Discovery Podcast
-    subtitle: Optional hero section subtitle
+    subtitle: 'Presented by the Indigenous Values Initative '
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
