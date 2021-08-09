@@ -6,9 +6,8 @@ sections:
     subtitle: >-
       Presented by the Indigenous Values Initiative, American Indian Law
       Alliance.
-    content: >-
-      A podcast for Web developers interested in building Jamstack websites.
-      Hosted by Miles Tone.
+    content: |
+      Funded in part by the Syracuse University Engaged Humanities grant.
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
