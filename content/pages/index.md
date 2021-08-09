@@ -3,7 +3,10 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to Mapping the Doctrine of Discovery Podcast
-    subtitle: 'Presented by the Indigenous Values Initiative '
+    subtitle: >-
+      Presented by the Indigenous Values Initiative, American Indian Law
+      Alliance, and funded in part by the Syracuse University Engaged Humanities
+      grant.
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
