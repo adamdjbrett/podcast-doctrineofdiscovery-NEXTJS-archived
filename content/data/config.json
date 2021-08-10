@@ -48,6 +48,11 @@
                 "style": "link"
             },
             {
+                "label": "Subscribe",
+                "url": "/subscribe",
+                "style": "link"
+            },
+            {
                 "label": "Doctrine of Discovery",
                 "url": "https://doctrineofdiscovery.org",
                 "style": "link",
@@ -57,11 +62,6 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
-            },
-            {
-                "label": "Subscribe",
-                "url": "/subscribe",
-                "style": "link"
             }
         ],
         "has_secondary_nav": true,
