@@ -51,11 +51,6 @@
                 "label": "Subscribe",
                 "url": "/subscribe",
                 "style": "link"
-            },
-            {
-                "label": "Advertising",
-                "url": "/advertising",
-                "style": "link"
             }
         ],
         "has_secondary_nav": true,
