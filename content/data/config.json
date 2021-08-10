@@ -119,7 +119,7 @@
                 "new_window": true
             }
         ],
-        "content": "This work is licensed under the Creative Commons by the Indigenous Values Initiative and . All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "This work is <a href=\"/license/\">licensed under the Creative Commons</a> by the <a href=\"https://indigenousvalues.org\" target=\"_blank\" rel=\"noopener\">Indigenous Values Initiative</a> and <a href=\"https://aila.ngo\" target=\"_blank\" rel=\"noopener\">American Indian Law Alliance</a>. <br /> This site was created with Stackbit."
     },
     "announcement": {
         "has_anncmnt": true,
