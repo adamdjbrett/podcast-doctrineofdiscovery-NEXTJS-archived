@@ -62,7 +62,7 @@
             },
             {
                 "label": "License",
-                "url": "#",
+                "url": "/license",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
