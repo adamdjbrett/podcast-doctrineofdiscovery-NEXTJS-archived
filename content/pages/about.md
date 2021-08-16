@@ -30,6 +30,8 @@ layout: page
 ---
 ![Me doing live podcast](/images/about.png)
 
+## [Land Acknowledgement](/land)
+
 ## Sponsors
 
 *   Syracuse University Engaged Humanities
