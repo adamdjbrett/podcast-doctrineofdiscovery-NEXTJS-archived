@@ -30,7 +30,9 @@ layout: page
 ---
 ![Me doing live podcast](/images/about.png)
 
-## [Land Acknowledgement](/land)
+[Land Acknowledgement](/land)
+
+*   Read our [land acknowledgement](/land)
 
 ## Sponsors
 
