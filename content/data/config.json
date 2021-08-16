@@ -100,7 +100,7 @@
             },
             {
                 "label": "Land Acknowledgement",
-                "url": "#",
+                "url": "/land",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
