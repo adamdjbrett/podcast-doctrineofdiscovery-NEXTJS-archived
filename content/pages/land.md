@@ -1,5 +1,5 @@
 ---
-title: About
+title: Land Acknowledgement
 seo:
   title: About
   description: This is the about page
