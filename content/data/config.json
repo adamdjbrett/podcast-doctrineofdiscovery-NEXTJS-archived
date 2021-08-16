@@ -23,11 +23,6 @@
                 "style": "link"
             },
             {
-                "label": "Learn More",
-                "url": "https://doctrineofdiscovery.org/",
-                "style": "link"
-            },
-            {
                 "label": "Land",
                 "url": "/land",
                 "style": "link",
@@ -37,6 +32,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Learn More",
+                "url": "https://doctrineofdiscovery.org/",
+                "style": "link"
             }
         ],
         "has_secondary_nav": true,
