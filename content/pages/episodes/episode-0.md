@@ -1,5 +1,5 @@
 ---
-title: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
+title: Episode 0 - Introducing Mapping the Doctrine of Discovery
 subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
   videre, nihil tranquilli potest.
