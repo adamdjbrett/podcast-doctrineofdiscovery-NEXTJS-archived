@@ -12,8 +12,20 @@ thumb_image_alt: Podcast 1 placeholder image
 image_alt: Podcast 1 placeholder image
 image_position: left
 episode_embed_html: >-
-  <iframe
-  width="100undefined3A//api.soundcloud.com/tracks/387283889&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+  <iframe width="100%" height="300" scrolling="no" frameborder="no"
+  allow="autoplay"
+  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/698045476&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div
+  style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break:
+  normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;
+  font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida
+  Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a
+  href="https://soundcloud.com/huehuecoyotl" title="Huehuecoyotl"
+  target="_blank" style="color: #cccccc; text-decoration:
+  none;">Huehuecoyotl</a> · <a
+  href="https://soundcloud.com/huehuecoyotl/huehuecoyotl-interview-with-gustavo-gutierrez-quito-ecuador-2010"
+  title="Huehuecoyotl: Interview with Gustavo Gutierrez - Quito, Ecuador  2010"
+  target="_blank" style="color: #cccccc; text-decoration: none;">Huehuecoyotl:
+  Interview with Gustavo Gutierrez - Quito, Ecuador  2010</a></div>
 seo:
   title: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
   description: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
