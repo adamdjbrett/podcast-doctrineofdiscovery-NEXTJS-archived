@@ -52,7 +52,9 @@ seo:
     - name: 'twitter:title'
       value: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
     - name: 'twitter:description'
-      value: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
+      value: >-
+        Our hosts Philip P. Arnold and Sandy Bigtree (Mohawk Nation) introduce
+        the podcast and the concept of the Doctrine of Christian Discovery.
     - name: 'twitter:image'
       value: images/post-1.jpg
       relativeUrl: true
