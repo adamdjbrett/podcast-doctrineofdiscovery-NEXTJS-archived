@@ -56,7 +56,7 @@ seo:
         Our hosts Philip P. Arnold and Sandy Bigtree (Mohawk Nation) introduce
         the podcast and the concept of the Doctrine of Christian Discovery.
     - name: 'twitter:image'
-      value: images/post-1.jpg
+      value: /images/onondaga-lake-east-shoreline.jpg
       relativeUrl: true
 layout: post
 thumb_image: /images/onondaga-lake-east-shoreline.jpg
