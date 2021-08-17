@@ -8,7 +8,7 @@ categories:
   - content/data/categories/season-1.yaml
 tags: []
 excerpt: lorem-ipsum
-thumb_image_alt: Podcast 1 placeholder image
+thumb_image_alt: Flying over Onondaga Lake
 image_alt: Flying over Onondaga Lake
 image_position: left
 episode_embed_html: >-
