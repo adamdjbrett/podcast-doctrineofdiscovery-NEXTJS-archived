@@ -211,7 +211,9 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Podcaster Theme
     - name: 'twitter:description'
-      value: The preview of the Podcaster theme
+      value: >-
+        Mapping the Doctrine of Discovery Podcast. Contextualizing the Doctrine
+        of Christian Discovery and Domination and its influence on US law.
     - name: 'twitter:image'
       value: /images/onondaga-lake-east-shoreline.jpg
       relativeUrl: true
