@@ -186,7 +186,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
 seo:
-  title: Mapping the Doctrine of Discovery
+  title: Mapping the Doctrine of Discovery Podcast
   description: >-
     Mapping the Doctrine of Discovery Podcast. Contextualizing the Doctrine of
     Christian Discovery and Domination and its influence on US law.
@@ -195,23 +195,27 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Podcaster Theme
+      value: Mapping the Doctrine of Discovery Podcast
       keyName: property
     - name: 'og:description'
-      value: The preview of the Podcaster theme
+      value: >-
+        Mapping the Doctrine of Discovery Podcast. Contextualizing the Doctrine
+        of Christian Discovery and Domination and its influence on US law.
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: /images/onondaga-lake-east-shoreline.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Podcaster Theme
+      value: Mapping the Doctrine of Discovery
     - name: 'twitter:description'
-      value: The preview of the Podcaster theme
+      value: >-
+        Mapping the Doctrine of Discovery Podcast. Contextualizing the Doctrine
+        of Christian Discovery and Domination and its influence on US law.
     - name: 'twitter:image'
-      value: images/hero.png
+      value: /images/onondaga-lake-east-shoreline.jpg
       relativeUrl: true
 layout: advanced
 ---
