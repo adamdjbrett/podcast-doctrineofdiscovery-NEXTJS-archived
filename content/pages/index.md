@@ -201,7 +201,7 @@ seo:
       value: The preview of the Podcaster theme
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: /images/onondaga-lake-east-shoreline.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
