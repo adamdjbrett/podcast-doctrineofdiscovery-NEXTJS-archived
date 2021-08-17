@@ -44,7 +44,7 @@ seo:
         the podcast and the concept of the Doctrine of Christian Discovery.
       keyName: property
     - name: 'og:image'
-      value: images/post-1.jpg
+      value: /images/onondaga-lake-east-shoreline.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
