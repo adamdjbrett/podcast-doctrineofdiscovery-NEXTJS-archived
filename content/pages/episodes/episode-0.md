@@ -36,7 +36,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
+      value: Episode 0 - Introducing Mapping the Doctrine of Discovery
       keyName: property
     - name: 'og:description'
       value: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
