@@ -56,9 +56,11 @@ layout: post
 thumb_image: /images/onondaga-lake-east-shoreline.jpg
 image: /images/onondaga-lake-east-shoreline.jpg
 ---
-## Introduction
+Download a transcript of Episode 0 as a PDF
 
-Our hosts Philip P. Arnold and Sandy Bigtree set up the podcast Mapping the Doctrine of Discovery
+## Episode 0: Introduction
+
+Our hosts Philip P. Arnold and Sandy Bigtree set up the podcast Mapping the Doctrine of Discovery.
 
 ## Primary Questions
 
@@ -104,7 +106,11 @@ We have a list of repudiations of the Doctrine of Discovery issued by faith comm
 
 *   Domination
 
-### Sources
+## Homework/Discussion Questions
+
+*   Whose land do you live on? What responsibilities do you have to the Indigenous nations and peoples on whose land you live? 
+
+## Sources
 
 *   [Onondaga Nation](https://www.onondaganation.org/)
 
