@@ -56,9 +56,11 @@ layout: post
 thumb_image: /images/onondaga-lake-east-shoreline.jpg
 image: /images/onondaga-lake-east-shoreline.jpg
 ---
-## Introduction
+\[Download a transcript of Episode 0 as a PDF]\(#)
 
-Our hosts Philip P. Arnold and Sandy Bigtree set up the podcast Mapping the Doctrine of Discovery
+## Episode 0: Introduction
+
+Our hosts Philip P. Arnold and Sandy Bigtree set up the podcast Mapping the Doctrine of Discovery.
 
 ## Primary Questions
 
