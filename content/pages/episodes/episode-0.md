@@ -8,8 +8,8 @@ categories:
   - content/data/categories/season-1.yaml
 tags: []
 excerpt: lorem-ipsum
-thumb_image_alt: Podcast 1 placeholder image
-image_alt: Podcast 1 placeholder image
+thumb_image_alt: Flying over Onondaga Lake
+image_alt: Flying over Onondaga Lake
 image_position: left
 episode_embed_html: >-
   <iframe width="100%" height="300" scrolling="no" frameborder="no"
@@ -53,7 +53,7 @@ seo:
       value: images/post-1.jpg
       relativeUrl: true
 layout: post
-thumb_image: images/post-1.jpg
+thumb_image: /images/onondaga-lake-east-shoreline.jpg
 image: /images/onondaga-lake-east-shoreline.jpg
 ---
 ## Introduction
