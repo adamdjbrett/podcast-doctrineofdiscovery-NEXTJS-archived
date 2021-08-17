@@ -50,7 +50,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
+      value: Episode 0 - Introducing Mapping the Doctrine of Discovery
     - name: 'twitter:description'
       value: >-
         Our hosts Philip P. Arnold and Sandy Bigtree (Mohawk Nation) introduce
