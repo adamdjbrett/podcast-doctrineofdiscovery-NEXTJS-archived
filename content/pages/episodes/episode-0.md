@@ -54,7 +54,7 @@ seo:
       relativeUrl: true
 layout: post
 thumb_image: images/post-1.jpg
-image: images/post-1.jpg
+image: /images/onondaga-lake-east-shoreline.jpg
 ---
 ## Introduction
 
