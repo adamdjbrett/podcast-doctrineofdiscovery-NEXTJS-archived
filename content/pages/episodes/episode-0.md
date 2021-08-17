@@ -108,7 +108,7 @@ We have a list of repudiations of the Doctrine of Discovery issued by faith comm
 
 *   [Onondaga Nation](https://www.onondaganation.org/)
 
-    *   Learn more by reading the Neighbors of Onondaga Nation booklet (PDF)
+    *   [Learn more by reading the Neighbors of Onondaga Nation booklet (PDF)](https://indigenousvalues.org/product/noon-digital/)
 
 *   [Mother Earth's Pandemic: The Doctrine of Discovery](https://doctrineofdiscovery.org/event/education/mother-earths-pandemic/) a landmark conference on the Doctrine of Christian Discovery.
 
