@@ -186,8 +186,10 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
 seo:
-  title: Stackbit Podcaster Theme
-  description: The preview of the Podcaster theme
+  title: Mapping the Doctrine of Discovery
+  description: >-
+    Mapping the Doctrine of Discovery Podcast. Contextualizing the Doctrine of
+    Christian Discovery and Domination and its influence on US law.
   extra:
     - name: 'og:type'
       value: website
