@@ -187,7 +187,9 @@ sections:
     background_image_opacity: 98
 seo:
   title: Mapping the Doctrine of Discovery
-  description: The preview of the Podcaster theme
+  description: >-
+    Mapping the Doctrine of Discovery Podcast. Contextualizing the Doctrine of
+    Christian Discovery and Domination and its influence on US law.
   extra:
     - name: 'og:type'
       value: website
