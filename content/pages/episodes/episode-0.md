@@ -39,7 +39,9 @@ seo:
       value: Episode 0 - Introducing Mapping the Doctrine of Discovery
       keyName: property
     - name: 'og:description'
-      value: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
+      value: >-
+        Our hosts Philip P. Arnold and Sandy Bigtree (Mohawk Nation) introduce
+        the podcast and the concept of the Doctrine of Christian Discovery.
       keyName: property
     - name: 'og:image'
       value: images/post-1.jpg
