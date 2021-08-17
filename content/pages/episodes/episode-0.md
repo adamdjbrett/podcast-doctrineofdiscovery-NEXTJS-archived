@@ -27,7 +27,7 @@ episode_embed_html: >-
   target="_blank" style="color: #cccccc; text-decoration: none;">Huehuecoyotl:
   Interview with Gustavo Gutierrez - Quito, Ecuador  2010</a></div>
 seo:
-  title: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
+  title: Episode 0 - Introducing Mapping the Doctrine of Discovery
   description: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
   extra:
     - name: 'og:type'
