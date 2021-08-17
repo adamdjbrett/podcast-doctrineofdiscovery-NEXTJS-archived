@@ -9,7 +9,7 @@ categories:
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: Podcast 1 placeholder image
-image_alt: Flying over Onodaga Lake
+image_alt: Flying over Onondaga Lake
 image_position: left
 episode_embed_html: >-
   <iframe width="100%" height="300" scrolling="no" frameborder="no"
