@@ -27,30 +27,36 @@ episode_embed_html: >-
   target="_blank" style="color: #cccccc; text-decoration: none;">Huehuecoyotl:
   Interview with Gustavo Gutierrez - Quito, Ecuador  2010</a></div>
 seo:
-  title: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
-  description: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
+  title: Episode 0 - Introducing Mapping the Doctrine of Discovery
+  description: >-
+    Our hosts Philip P. Arnold and Sandy Bigtree (Mohawk Nation) introduce the
+    podcast and the concept of the Doctrine of Christian Discovery.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
+      value: Episode 0 - Introducing Mapping the Doctrine of Discovery
       keyName: property
     - name: 'og:description'
-      value: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
+      value: >-
+        Our hosts Philip P. Arnold and Sandy Bigtree (Mohawk Nation) introduce
+        the podcast and the concept of the Doctrine of Christian Discovery.
       keyName: property
     - name: 'og:image'
-      value: images/post-1.jpg
+      value: /images/onondaga-lake-east-shoreline.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
+      value: Episode 0 - Introducing Mapping the Doctrine of Discovery
     - name: 'twitter:description'
-      value: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
+      value: >-
+        Our hosts Philip P. Arnold and Sandy Bigtree (Mohawk Nation) introduce
+        the podcast and the concept of the Doctrine of Christian Discovery.
     - name: 'twitter:image'
-      value: images/post-1.jpg
+      value: /images/onondaga-lake-east-shoreline.jpg
       relativeUrl: true
 layout: post
 thumb_image: /images/onondaga-lake-east-shoreline.jpg
