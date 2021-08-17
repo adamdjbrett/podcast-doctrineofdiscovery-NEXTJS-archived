@@ -209,7 +209,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Podcaster Theme
+      value: Mapping the Doctrine of Discovery
     - name: 'twitter:description'
       value: >-
         Mapping the Doctrine of Discovery Podcast. Contextualizing the Doctrine
