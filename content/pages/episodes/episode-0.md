@@ -3,7 +3,7 @@ title: Episode 0 - Introducing Mapping the Doctrine of Discovery
 subtitle: >-
   Our hosts (Philip P. Arnold & Sandy Bigtree) introduce the concept of the
   Doctrine of Discovery and give some of the keywords for the podcast
-date: '2020-08-15'
+date: '2020-08-17'
 categories:
   - content/data/categories/season-1.yaml
 tags: []
