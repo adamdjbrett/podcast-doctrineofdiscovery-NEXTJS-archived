@@ -213,7 +213,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Podcaster theme
     - name: 'twitter:image'
-      value: images/hero.png
+      value: /images/onondaga-lake-east-shoreline.jpg
       relativeUrl: true
 layout: advanced
 ---
