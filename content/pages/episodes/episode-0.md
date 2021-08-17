@@ -28,7 +28,9 @@ episode_embed_html: >-
   Interview with Gustavo Gutierrez - Quito, Ecuador  2010</a></div>
 seo:
   title: Episode 0 - Introducing Mapping the Doctrine of Discovery
-  description: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
+  description: >-
+    Our hosts Philip P. Arnold and Sandy Bigtree (Mohawk Nation) introduce the
+    podcast and the concept of the Doctrine of Christian Discovery.
   extra:
     - name: 'og:type'
       value: article
