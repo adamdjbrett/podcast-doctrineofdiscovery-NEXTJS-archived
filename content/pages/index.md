@@ -198,7 +198,9 @@ seo:
       value: Mapping the Doctrine of Discovery Podcast
       keyName: property
     - name: 'og:description'
-      value: The preview of the Podcaster theme
+      value: >-
+        Mapping the Doctrine of Discovery Podcast. Contextualizing the Doctrine
+        of Christian Discovery and Domination and its influence on US law.
       keyName: property
     - name: 'og:image'
       value: /images/onondaga-lake-east-shoreline.jpg
