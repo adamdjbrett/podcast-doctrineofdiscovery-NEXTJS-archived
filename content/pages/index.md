@@ -122,7 +122,7 @@ sections:
       - image: >-
           /images/American Indian Law Alliance slogan
           large-transparent-title-only.png
-        image_alt: Netlify logo
+        image_alt: American Indian Law Alliance
         image_align: center
       - image: images/logo-3.svg
         image_alt: Sticker Mule logo
