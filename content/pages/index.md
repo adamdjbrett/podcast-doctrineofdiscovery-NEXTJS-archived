@@ -7,7 +7,7 @@ sections:
       Presented by the Indigenous Values Initiative, American Indian Law
       Alliance.
     content: |
-      Funded in part by the Syracuse University Engaged Humanities grant.
+      Lorem Ipsum fake latin fun information
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
