@@ -13,7 +13,7 @@ sections:
         url: /thank-you
         style: primary
     image: /images/mapping-doctrine-of-discovery-favicon.png
-    image_alt: Hero section placeholder image
+    image_alt: Mapping the Doctrine of Discovery logo. A com
     media_position: left
     media_width: fifty
     align: left
