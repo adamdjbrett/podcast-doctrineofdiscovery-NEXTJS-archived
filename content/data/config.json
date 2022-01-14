@@ -75,7 +75,7 @@
                 "type": "action"
             },
             {
-                "label": "Main",
+                "label": "Main website",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
