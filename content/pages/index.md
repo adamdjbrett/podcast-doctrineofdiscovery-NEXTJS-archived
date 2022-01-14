@@ -124,7 +124,7 @@ sections:
           large-transparent-title-only.png
         image_alt: American Indian Law Alliance
         image_align: center
-      - image: images/logo-3.svg
+      - image: /images/arts-sciences-S.svg
         image_alt: Sticker Mule logo
         image_align: center
       - image: images/logo-4.svg
