@@ -118,6 +118,7 @@ sections:
     grid_items:
       - image: /images/indigenousvalues-2020.png
         image_align: center
+        image_alt: Indigenous Values Initiative Logo
       - image: >-
           /images/American Indian Law Alliance slogan
           large-transparent-title-only.png
