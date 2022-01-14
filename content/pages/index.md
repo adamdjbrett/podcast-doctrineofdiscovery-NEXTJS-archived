@@ -127,7 +127,7 @@ sections:
       - image: /images/SYRACUSE_Horizontal_1Line_ORANGE_RGB.png
         image_alt: Syracuse University logo
         image_align: center
-      - image: images/logo-4.svg
+      - image: /images/LUCE-Logo-Full-Mono-white-L.png
         image_alt: GitHub logo
         image_align: center
       - image_alt: Gatsby logo
