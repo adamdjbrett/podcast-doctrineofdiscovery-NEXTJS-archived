@@ -124,7 +124,7 @@ sections:
           large-transparent-title-only.png
         image_alt: American Indian Law Alliance
         image_align: center
-      - image: /images/SYRACUSE_Horizontal_1Line_ORANGE_RGB.png
+      - image: /images/SYRACUSE_Horizontal_1Line_KNOCKOUT_white.png
         image_alt: Syracuse University logo
         image_align: center
       - image: /images/LUCE-Logo-Full-Mono-white-L.png
