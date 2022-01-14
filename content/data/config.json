@@ -151,7 +151,7 @@
                 "new_window": true
             }
         ],
-        "content": "This podcast is <a href=\"/license/\">licensed under the Creative Commons</a> by the <a href=\"https://indigenousvalues.org\" target=\"_blank\" rel=\"noopener\">Indigenous Values Initiative</a> and <a href=\"https://aila.ngo\" target=\"_blank\" rel=\"noopener\">American Indian Law Alliance</a>. <br /> This site was created with Stackbit."
+        "content": "This podcast is a collaboration  <a href=\"/license/\">licensed under the Creative Commons</a> by the <a href=\"https://indigenousvalues.org\" target=\"_blank\" rel=\"noopener\">Indigenous Values Initiative</a> and <a href=\"https://aila.ngo\" target=\"_blank\" rel=\"noopener\">American Indian Law Alliance</a>. <br /> This site was created with Stackbit."
     },
     "announcement": {
         "has_anncmnt": false,
