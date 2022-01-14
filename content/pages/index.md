@@ -13,7 +13,9 @@ sections:
         url: /thank-you
         style: primary
     image: /images/mapping-doctrine-of-discovery-favicon.png
-    image_alt: Mapping the Doctrine of Discovery logo. A com
+    image_alt: >-
+      The Mapping the Doctrine of Discovery logo is a compass rose covered in
+      blood.
     media_position: left
     media_width: fifty
     align: left
