@@ -125,7 +125,7 @@ sections:
         image_alt: American Indian Law Alliance
         image_align: center
       - image: /images/SYRACUSE_Horizontal_1Line_ORANGE_RGB.png
-        image_alt: Syracuse Univ
+        image_alt: Syracuse University logo
         image_align: center
       - image: images/logo-4.svg
         image_alt: GitHub logo
