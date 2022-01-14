@@ -117,7 +117,6 @@ sections:
     align: center
     grid_items:
       - image: /images/indigenousvalues-2020.png
-        image_alt: Stackbit logo
         image_align: center
       - image: >-
           /images/American Indian Law Alliance slogan
