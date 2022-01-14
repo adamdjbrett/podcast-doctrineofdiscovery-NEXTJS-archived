@@ -113,7 +113,9 @@ sections:
     background_image_opacity: 10
   - type: grid_section
     title: Partners
-    subtitle: Mapping the Doctrine of Discovery is supported by our partners.
+    subtitle: >-
+      This project was supported by grants from the Syracuse University Engaged
+      Humanities Network and the Henry Luce Foundation.
     align: center
     grid_items:
       - image: /images/indigenousvalues-2020.png
