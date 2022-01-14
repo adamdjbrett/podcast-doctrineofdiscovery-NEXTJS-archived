@@ -54,16 +54,6 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Main Website",
-                "url": "https://doctrineofdiscovery.org/",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
                 "label": "Episodes",
                 "url": "/episodes",
                 "style": "link"
@@ -83,6 +73,16 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Main Website",
+                "url": "https://doctrineofdiscovery.org/",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
             }
         ],
         "has_secondary_nav": true,
