@@ -7,13 +7,15 @@ sections:
       Presented by the Indigenous Values Initiative, American Indian Law
       Alliance.
     content: |
-      Funded in part by the Syracuse University Engaged Humanities grant.
+      Target podcast audience information
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
         style: primary
-    image: images/hero.png
-    image_alt: Hero section placeholder image
+    image: /images/mapping-doctrine-of-discovery-favicon.png
+    image_alt: >-
+      The Mapping the Doctrine of Discovery logo is a compass rose covered in
+      blood.
     media_position: left
     media_width: fifty
     align: left
@@ -111,32 +113,30 @@ sections:
     background_image_opacity: 10
   - type: grid_section
     title: Partners
-    subtitle: 2021 Supporters
+    subtitle: >-
+      This project was supported by grants from the Syracuse University Engaged
+      Humanities Network and the Henry Luce Foundation.
     align: center
     grid_items:
-      - image: images/logo-1.svg
-        image_alt: Stackbit logo
+      - image: /images/indigenousvalues-2020.png
         image_align: center
-      - image: images/logo-2.svg
-        image_alt: Netlify logo
+        image_alt: Indigenous Values Initiative Logo
+      - image: /images/aila-square-sm.png
+        image_alt: American Indian Law Alliance
         image_align: center
-      - image: images/logo-3.svg
-        image_alt: Sticker Mule logo
+      - image: /images/SYRACUSE_Horizontal_1Line_KNOCKOUT_white.png
+        image_alt: Syracuse University logo
         image_align: center
-      - image: images/logo-4.svg
-        image_alt: GitHub logo
+      - image: /images/LUCE-Logo-Full-Mono-white-L.png
+        image_alt: Henry Luce Foundation
         image_align: center
-      - image: images/logo-5.svg
-        image_alt: Gatsby logo
+      - image_alt: Gatsby logo
         image_align: center
-      - image: images/logo-6.svg
-        image_alt: Twilio logo
+      - image_alt: Twilio logo
         image_align: center
-      - image: images/logo-7.svg
-        image_alt: Contentful logo
+      - image_alt: Contentful logo
         image_align: center
-      - image: images/logo-8.svg
-        image_alt: Forestry logo
+      - image_alt: Forestry logo
         image_align: center
     grid_cols: four
     grid_gap_horiz: medium

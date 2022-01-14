@@ -64,8 +64,8 @@
                 "style": "link"
             },
             {
-                "label": "Doctrine of Discovery",
-                "url": "https://doctrineofdiscovery.org",
+                "label": "About",
+                "url": "/about",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
@@ -73,15 +73,20 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Support",
+                "url": "https://doctrineofdiscovery.org/give/",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
             }
         ],
         "has_secondary_nav": true,
         "secondary_nav_links": [
-            {
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
             {
                 "label": "Land Acknowledgement",
                 "url": "/land",
@@ -92,6 +97,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Doctrine of Discovery (main)",
+                "url": "https://doctrineofdiscovery.org",
+                "style": "link"
             },
             {
                 "label": "License",
@@ -141,7 +151,7 @@
                 "new_window": true
             }
         ],
-        "content": "This work is <a href=\"/license/\">licensed under the Creative Commons</a> by the <a href=\"https://indigenousvalues.org\" target=\"_blank\" rel=\"noopener\">Indigenous Values Initiative</a> and <a href=\"https://aila.ngo\" target=\"_blank\" rel=\"noopener\">American Indian Law Alliance</a>. <br /> This site was created with Stackbit."
+        "content": "This podcast is  <a href=\"/license/\">licensed under the Creative Commons</a> by the <a href=\"https://indigenousvalues.org\" target=\"_blank\" rel=\"noopener\">Indigenous Values Initiative</a> and <a href=\"https://aila.ngo\" target=\"_blank\" rel=\"noopener\">American Indian Law Alliance</a>. <br /> This site was created with Stackbit and is maintained by Adam DJ Brett."
     },
     "announcement": {
         "has_anncmnt": false,
@@ -151,5 +161,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-episode"
     },
-    "domain": "https://doctrine-discovery-podcast-rev2-1812d.netlify.app"
+    "domain": "https://doctrine-discovery-podcast-rev2-1812d.netlify.app",
+    "favicon": "/images/mapping-doctrine-of-discovery-favicon.png"
 }
