@@ -7,7 +7,7 @@ sections:
       Presented by the Indigenous Values Initiative, American Indian Law
       Alliance.
     content: |
-      Lorem Ipsum fake latin fun information
+      Target podcast audience information
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
