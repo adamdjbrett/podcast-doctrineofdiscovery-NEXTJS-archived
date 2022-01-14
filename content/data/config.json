@@ -65,7 +65,7 @@
             },
             {
                 "label": "About",
-                "url": "https://doctrineofdiscovery.org",
+                "url": "/",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
