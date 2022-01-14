@@ -128,7 +128,7 @@ sections:
         image_alt: Syracuse University logo
         image_align: center
       - image: /images/LUCE-Logo-Full-Mono-white-L.png
-        image_alt: GitHub logo
+        image_alt: Henry Luce Foundation
         image_align: center
       - image_alt: Gatsby logo
         image_align: center
