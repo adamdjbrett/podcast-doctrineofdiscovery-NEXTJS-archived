@@ -116,7 +116,7 @@ sections:
     subtitle: Mapping the Doctrine of Discovery is supported by our partners.
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: /images/indigenousvalues-2020.png
         image_alt: Stackbit logo
         image_align: center
       - image: images/logo-2.svg
