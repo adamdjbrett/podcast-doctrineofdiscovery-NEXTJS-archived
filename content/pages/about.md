@@ -14,7 +14,7 @@ seo:
       value: This is the about page
       keyName: property
     - name: 'og:image'
-      value: images/about.png
+      value: images/mapping-doctrine-of-discovery-favicon.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -24,15 +24,16 @@ seo:
     - name: 'twitter:description'
       value: This is the about page
     - name: 'twitter:image'
-      value: images/about.png
+      value: images/mapping-doctrine-of-discovery-favicon.png
       relativeUrl: true
 layout: page
 ---
-![Me doing live podcast](/images/about.png)
+![Me doing live podcast](/images/mapping-doctrine-of-discovery-favicon.png)
 
 
 
 ## Sponsors
+*   Henry Luce Foundation
 
 *   Syracuse University Engaged Humanities
 
