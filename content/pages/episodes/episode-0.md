@@ -7,9 +7,9 @@ date: '2021-08-17'
 categories:
   - content/data/categories/season-1.yaml
 tags: []
-excerpt: lorem-ipsum
-thumb_image_alt: Flying over Onondaga Lake
-image_alt: Flying over Onondaga Lake
+excerpt: Introducing Mapping the Doctrine of Discovery Podcast
+thumb_image_alt: Podcast cover art
+image_alt: mapping-doctrine-of-discovery-favicon.png
 image_position: left
 episode_embed_html: >-
   <iframe width="100%" height="300" scrolling="no" frameborder="no"
@@ -44,7 +44,7 @@ seo:
         the podcast and the concept of the Doctrine of Christian Discovery.
       keyName: property
     - name: 'og:image'
-      value: /images/onondaga-lake-east-shoreline.jpg
+      value: /images/mapping-doctrine-of-discovery-favicon.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -56,11 +56,11 @@ seo:
         Our hosts Philip P. Arnold and Sandy Bigtree (Mohawk Nation) introduce
         the podcast and the concept of the Doctrine of Christian Discovery.
     - name: 'twitter:image'
-      value: /images/onondaga-lake-east-shoreline.jpg
+      value: /images/mapping-doctrine-of-discovery-favicon.png
       relativeUrl: true
 layout: post
-thumb_image: /images/onondaga-lake-east-shoreline.jpg
-image: /images/onondaga-lake-east-shoreline.jpg
+thumb_image: /images/mapping-doctrine-of-discovery-favicon.png
+image: /images/mapping-doctrine-of-discovery-favicon.png
 ---
 Download a transcript of Episode 0 as a PDF
 
@@ -94,40 +94,30 @@ The Doctrine of Discovery is a theological tool of oppression and of Christian H
 
 We have a list of repudiations of the Doctrine of Discovery issued by faith communities. One of the most important is the World Council of Churches repudiation of the Doctrine of Discovery. Repuidations are the first step of moving towards rescinding the Doctrine of Discovery and moving towards better relationships
 
-### Why does the DoD matter for the study of religion?
+### Why does the Doctrine of Discovery matter for the study of religion?
 
-### Why does the DoD matter for the humanities at large?
+### Why does the Doctrine of Discovery matter for the humanities and law?
 
 ## Keywords
 
 *   Doctrine of Discovery/Doctrine of Christian Discovery
-
     *   According to Steven T. Newcomb there are three primary dimensions:
-
         *   Enslavement
-
         *   Extraction
-
         *   Exploitation
-
 *   Domination
 
 ## Homework/Discussion Questions
 
-*   Whose land do you live on? What responsibilities do you have to the Indigenous nations and peoples on whose land you live? 
+*   Whose land do you live on? What responsibilities do you have to the Indigenous nations and peoples on whose land you live?
+*   Where do you see the Doctrine of Discovery active in history and today?
 
 ## Sources
 
 *   [Onondaga Nation](https://www.onondaganation.org/)
-
     *   [Learn more by reading the Neighbors of Onondaga Nation booklet (PDF)](https://indigenousvalues.org/product/noon-digital/)
-
 *   [Mother Earth's Pandemic: The Doctrine of Discovery](https://doctrineofdiscovery.org/event/education/mother-earths-pandemic/) a landmark conference on the Doctrine of Christian Discovery.
-
 *   [Indigenous Values Initiative](https://indigenousvalues.org/)
-
 *   [American Indian Law Alliance](http://aila.ngo/)
-
 *   Steven T. Newcomb (Shawnee/Lenape) author of: [*Pagans in the Promised Land: Decoding the Doctrine of Christian Discovery*](https://birchbarkbooks.com/all-online-titles/pagans-in-the-promised-land), co-producer of the documentary film, [*The Doctrine of Discovery: Unmasking the Domination Code*](https://vimeo.com/ondemand/dominationcode), directed by Sheldon Wolfchild (Dakota), and Director of [Original Free Nations](https://originalfreenations.com/)
-
 *   [How the Haudenosaunee The Great Law of Peace Influenced the Foundining of the US](https://www.pbs.org/native-america/blogs/native-voices/how-the-iroquois-great-law-of-peace-shaped-us-democracy/) via PBS
