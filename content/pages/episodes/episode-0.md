@@ -12,7 +12,7 @@ thumb_image_alt: Podcast cover art
 image_alt: mapping-doctrine-of-discovery-favicon.png
 image_position: left
 episode_embed_html: >-
-<div id="buzzsprout-player-10062173"></div><script src="https://www.buzzsprout.com/1926214/10062173-introduction-to-mapping-the-doctrine-of-discovery-podcast.js?container_id=buzzsprout-player-10062173&player=small" type="text/javascript" charset="utf-8"></script>
+  <div id="buzzsprout-player-10062173"></div><script src="https://www.buzzsprout.com/1926214/10062173-introduction-to-mapping-the-doctrine-of-discovery-podcast.js?container_id=buzzsprout-player-10062173&player=small" type="text/javascript" charset="utf-8"></script>
 seo:
   title: Episode 0 - Introducing Mapping the Doctrine of Discovery
   description: >-
