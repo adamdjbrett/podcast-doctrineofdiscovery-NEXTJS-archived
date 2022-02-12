@@ -98,7 +98,7 @@ By way of conclusion Arnold and Bigtree return to the root causes of the Doctrin
     *   Mohawk, Oneida, Onondaga, Cayuga, and Seneca. Later the Tuscarora nation joined.
 *   Gift Economy, (Cf. _The Gift of Sports_)
 
-## **Key People**
+## **Key People** 
 
 *   [Tadodaho Sidney Hill](https://indigenousvalues.org/mother-earths-pandemic-speaker-bios/)
 *   [Onondaga Nation Turtle Clan Faithkeeper Oren Lyons](https://news.syr.edu/blog/2020/07/29/oren-lyons-58-h93-headlines-august-conversations-about-the-doctrine-of-discovery/)
@@ -130,7 +130,6 @@ By way of conclusion Arnold and Bigtree return to the root causes of the Doctrin
 
 ## Credits
 - **Music**: Onondaga Social Dance songs performed by Orris Edwards and Regis Cook
-
 
 
 ## Suggested Citation
