@@ -10,7 +10,7 @@ sections:
       Helping listeners contextualize the Doctrine of Discovery.
     actions:
       - label: Subscribe to Podcast
-        url: /thank-you
+        url: /subscribe
         style: primary
     image: /images/mapping-doctrine-of-discovery-favicon.png
     image_alt: >-
