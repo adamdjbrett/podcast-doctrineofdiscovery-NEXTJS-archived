@@ -17,7 +17,7 @@ sections:
         content_align: center
         actions:
           - label: Subscribe
-            url: /thank-you
+            url: https://podcasts.apple.com/us/podcast/mapping-the-doctrine-of-discovery/id1609802758
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -33,7 +33,7 @@ sections:
         content_align: center
         actions:
           - label: Subscribe
-            url: /thank-you
+            url: https://open.spotify.com/show/5VoYjujmNFCYS89vSsgl1c
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -49,7 +49,7 @@ sections:
         content_align: center
         actions:
           - label: Subscribe
-            url: /thank-you
+            url: https://overcast.fm/itunes1609802758
             style: secondary
             has_icon: true
             icon: arrow-right
