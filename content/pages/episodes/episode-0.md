@@ -1,9 +1,9 @@
 ---
-title: Episode 0 - Introducing Mapping the Doctrine of Discovery
+title: Episode 0 - Introduction to Mapping the Doctrine of Discovery Podcast
 subtitle: >-
   Our hosts (Philip P. Arnold & Sandy Bigtree) introduce the concept of the
   Doctrine of Discovery and give some of the keywords for the podcast
-date: '2021-08-17'
+date: '2022-02-12'
 categories:
   - content/data/categories/season-1.yaml
 tags: []
@@ -12,20 +12,7 @@ thumb_image_alt: Podcast cover art
 image_alt: mapping-doctrine-of-discovery-favicon.png
 image_position: left
 episode_embed_html: >-
-  <iframe width="100%" height="300" scrolling="no" frameborder="no"
-  allow="autoplay"
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/698045476&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div
-  style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break:
-  normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;
-  font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida
-  Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a
-  href="https://soundcloud.com/huehuecoyotl" title="Huehuecoyotl"
-  target="_blank" style="color: #cccccc; text-decoration:
-  none;">Huehuecoyotl</a> · <a
-  href="https://soundcloud.com/huehuecoyotl/huehuecoyotl-interview-with-gustavo-gutierrez-quito-ecuador-2010"
-  title="Huehuecoyotl: Interview with Gustavo Gutierrez - Quito, Ecuador  2010"
-  target="_blank" style="color: #cccccc; text-decoration: none;">Huehuecoyotl:
-  Interview with Gustavo Gutierrez - Quito, Ecuador  2010</a></div>
+<div id="buzzsprout-player-10062173"></div><script src="https://www.buzzsprout.com/1926214/10062173-introduction-to-mapping-the-doctrine-of-discovery-podcast.js?container_id=buzzsprout-player-10062173&player=small" type="text/javascript" charset="utf-8"></script>
 seo:
   title: Episode 0 - Introducing Mapping the Doctrine of Discovery
   description: >-
@@ -62,62 +49,89 @@ layout: post
 thumb_image: /images/mapping-doctrine-of-discovery-favicon.png
 image: /images/mapping-doctrine-of-discovery-favicon.png
 ---
-Download a transcript of Episode 0 as a PDF
 
-## Episode 0: Introduction
+[Download a transcript of Episode 0 as a PDF](/pdfs/Episode-0-Introducting-Mapping-The-Doctrine-of-Discovery-Transcript-rev2.pdf)
 
-Our hosts Philip P. Arnold and Sandy Bigtree set up the podcast Mapping the Doctrine of Discovery.
 
-## Primary Questions
+We begin this episode with a [land acknowledgement](/land/). Our hosts Prof. [Philip P. Arnold and Sandy Bigtree (Mohawk Nation)](https://indigenousvalues.org/about/our-team/) begin by explaining the need for and importance of this podcast and how they hope it will be a helpful educational resource for college classrooms.
 
-### What is the impact of the Doctrine of Discovery not only in the past but also the present?
+To begin mapping [The Doctrine of Discovery](https://doctrineofdiscovery.org/) our hosts start by discussing the iconic, Christopher Columbus. A man who literally embodies the Doctrine of Discovery. His voyage was funded by the Roman Catholic Church and the Crowns of Europe. A series of [papal bulls](https://doctrineofdiscovery.org/papal-bulls/) provided the theological and legal justifications for the European settler-colonizers to feel comfortable participating in Enslavement, Exploitation, and Extraction (Steven T. Newcomb’s _Pagans in the Promised Land_ helps to explain this helpful summary of the Papal Bulls).
 
-*   Steve Newcomb clarifies that it is the Doctrine of Christian of Discovery and Domination
+Moving forward in the historical discussion Arnold and Bigtree ask how do a series of Papal Bulls become codified in U.S. law and religion and why are they so important today? They turn our attention to [Johnson v. M’Intosh (1823).](https://doctrineofdiscovery.org/johnson-v-mcintosh/) In this Supreme Court of the United States (SCOTUS) ruling Chief Justice John Marshall codifies the Papal Bulls along with various treaties, and land patents into what is now known as the Doctrine of Discovery. Our hosts suggest that it is more accurate to speak of it as the Doctrine of Christian Discovery or the Christian Doctrine of Discovery because while Marshall seeks to downplay Christianity; nonetheless the Doctrine of Discovery is profoundly Christian. Continuing to focus on the legal dimension of the doctrine we move forward to the [2005 Sherrill v. Oneida case](https://doctrineofdiscovery.org/sherrill-v-oneida-opinion-of-the-court/). Noted liberal justice Ruth Bader Ginsburg authors the court’s decision and in footnote 1 writes:
 
-### Statues of Columbus statutes serving as monuments to the Doctrine of Discovery
+Under the “doctrine of discovery,” County of Oneida v. Oneida Indian Nation of N. Y…. “fee title to the lands occupied by Indians when the colonists arrived became vested in the sovereign–first the discovering European nation and later the original States and the United States,” Oneida Indian Nation of N. Y. v. County of Oneida… In the original 13 States, “fee title to Indian lands,” or “the pre-emptive right to purchase from the Indians, was in the State…” Both before and after the adoption of the Constitution, New York State acquired vast tracts of land from Indian tribes through treaties it independently negotiated, without National Government participation…
 
-*   [Onondaga Nation Statement on Columbus Statue in Downtown Syracuse](https://www.onondaganation.org/news/2020/onondaga-nation-statement-on-columbus-statue-in-downtown-syracuse/)
+Ginsburg’s footnote further illustrates how the Doctrine of Christian Discovery is foundational to U.S. property law and is supported by SCOTUS across the religious and political spectrum.
 
-#### Need photos of the Columbus Statue
+Turning from law Arnold and Bigtree move on to examining the religious dimensions of the Doctrine of Christian Discovery. To understand how the doctrine functions, one must understand how it combines Christianity and law together in an attempt to undermine Indigenous sovereignty. The Doctrine of Christian Discovery is not only about law and land but also about religious observance and the separation between church and state. Bigtree puts it eloquently:
 
-#### Definition
+The Doctrine of Discovery justified the conversion of native people. When they came into Haudenosaunee territory, specifically Onondaga, they arrived with a deed to 600 square miles of land, right in the heart of Onondaga Nation territory. This is sacred land. It’s a sacred lake where thousands of years ago, a peacemaker came and provided the instructions on how separate Indian Nations could unite under this law of peace, these principles of peace (00:12:47).
 
-The Doctrine of Discovery is Discovery is a series of Papal Bulls (decrees with legal status) which further fused European Churches and Crowns together creating a theological and legal
-justification for enslavement of Muslims (then called Saracens) and Indigenous peoples around the world starting in West Africa. It also justifies the extraction of natural resources from Mother Earth for the benefit of Popes and Princes. Finally it allowed for the exploitation of Mother Earth, the natural world, and all peoples. These Papal Bulls would fuse together into an effective short hand called the Doctrine of Discovery. in 1823 in the United States Chief Justice Johnson v. M'intosh relies on the Christian theological and legal precedence of the Doctrine of Discovery to justify the theft of Indigenous lands. The Doctrine of Discovery is still being used by settler-colonial courts like the U.S. as recently as 2005 when Justice Ruth Bader Ginsburg made reference to the Doctrine of Discovery in  Sherrill V. Oneida (2005) and then again by Justice Neil Gorsuch in the 2020 McGirt v. Oklahoma decision. James Carroll in *Constantine's Sword* notes that the effective element of the Doctrine of Discovery was to forge Christianity into a weapon of colonization.
+Highlighting the circulation of power and influence Arnold and Bigtree talk about how the Doctrine of Christian Discovery has impacted Deyhontsigwa’ehs/lacrosse, (00:17:50).
 
-The Doctrine of Discovery is a theological tool of oppression and of Christian Hegemony, destructive capital and endless warfare.
+Returning to the religious dimensions of the Doctrine of Discovery, Prof. Arnold defines the Doctrine of Christian Discovery as **theology of conquest**. A theology of conquest is:
 
-> Value Change for Survival.
-> \~ Onondaga nation Faithkeeper Oren Lyons
+So, this is what we refer to as the theology of conquest and the deep cultural factors in our society today that are driving us towards the end \[i.e., the Apocalypse\] have their root in the Doctrine of Discovery. And even though it has been traumatic for so many people around the world, it’s been \[more\] traumatic for Indigenous Peoples around the world, it’s what motivated the assimilationist movement in the 20th century, where various Christian denominations were setting up Indian boarding schools around the world but particularly here in the United States and Canada (22:39).
 
-### Repudiations
+Having defined and discussed the theology of conquest which animated the Doctrine of Christian Discovery, Arnold and Bigtree place it in juxtaposition with Indigenous values and religions (a concept which is complicated for Indigenous nations 00:31:48). After an important comparison and contrast between Haudenosaunee values and a Christian theology of conquest, Arnold and Bigtree move on to how the theology of conquest becomes part of the economy and consumerism (00:44:19). The theology of conquest and its profit economy are in contradistinction to the Indigenous gift economy.
 
-We have a list of repudiations of the Doctrine of Discovery issued by faith communities. One of the most important is the World Council of Churches repudiation of the Doctrine of Discovery. Repuidations are the first step of moving towards rescinding the Doctrine of Discovery and moving towards better relationships
+The episode concludes with a discussion of the impact of the Doctrine of Christian Discovery on sovereignty and the uniqueness of Onondaga Nation as a sovereign nation still using their traditional system of governance, speaking their language, travelling on their own passports, and flourishing despite the Doctrine of Discovery and settler colonization. Vine Deloria, Jr. (Standing Rock Sioux) once remarked that Onondaga Nation provides a clear example of a path forward (00:49:48) because of Onondaga Nation continuing to uphold their treaties and hold the U.S. and Canada accountable.
 
-### Why does the Doctrine of Discovery matter for the study of religion?
+By way of conclusion Arnold and Bigtree return to the root causes of the Doctrine of Christian Discovery and its exploitation, extraction, enslavement and how churches and religious organizations are working to repudiate the Doctrine of Christian Discovery and hold their religious organizations accountable.
 
-### Why does the Doctrine of Discovery matter for the humanities and law?
+## **Discussion questions**
 
-## Keywords
+*   What is the Doctrine of Discovery?
+*   When does the Doctrine of Discovery begin?
+*   Where is the Doctrine of Discovery operative today?
+*   How is the Doctrine of Discovery religious and legal?
+*   How does a theology of conquest inform the Doctrine of Christian?
 
-*   Doctrine of Discovery/Doctrine of Christian Discovery
-    *   According to Steven T. Newcomb there are three primary dimensions:
-        *   Enslavement
-        *   Extraction
-        *   Exploitation
-*   Domination
+## **Key Terms and Concepts**
 
-## Homework/Discussion Questions
+*   [Deyhontsigwa’ehs (lacrosse)](https://indigenousvalues.org/contributions/lacrosse/)
+*   Creation twins, (Cf. _The Gift of Sports_)
+*   Theology of Conquest (00:22:39)
+*   [The Good Mind](https://indigenousvalues.org/haudenosaunee-values/power-good-mind/)
+    *   Men of the Good Mind (_Royanie_ in Mohawk)
+*   Haudenosaunee Confederacy
+    *   Mohawk, Oneida, Onondaga, Cayuga, and Seneca. Later the Tuscarora nation joined.
+*   Gift Economy, (Cf. _The Gift of Sports_)
 
-*   Whose land do you live on? What responsibilities do you have to the Indigenous nations and peoples on whose land you live?
-*   Where do you see the Doctrine of Discovery active in history and today?
+## **Key People**
 
-## Sources
+*   [Tadodaho Sidney Hill](https://indigenousvalues.org/mother-earths-pandemic-speaker-bios/)
+*   [Onondaga Nation Turtle Clan Faithkeeper Oren Lyons](https://news.syr.edu/blog/2020/07/29/oren-lyons-58-h93-headlines-august-conversations-about-the-doctrine-of-discovery/)
+*   [Vine Deloria, Jr.](https://www.colorado.edu/law/vine-deloria-jr)
+*   [Steven T. Newcomb](https://originalfreenations.com/)
 
-*   [Onondaga Nation](https://www.onondaganation.org/)
-    *   [Learn more by reading the Neighbors of Onondaga Nation booklet (PDF)](https://indigenousvalues.org/product/noon-digital/)
-*   [Mother Earth's Pandemic: The Doctrine of Discovery](https://doctrineofdiscovery.org/event/education/mother-earths-pandemic/) a landmark conference on the Doctrine of Christian Discovery.
-*   [Indigenous Values Initiative](https://indigenousvalues.org/)
+## **Resources**
+
 *   [American Indian Law Alliance](http://aila.ngo/)
-*   Steven T. Newcomb (Shawnee/Lenape) author of: [*Pagans in the Promised Land: Decoding the Doctrine of Christian Discovery*](https://birchbarkbooks.com/all-online-titles/pagans-in-the-promised-land), co-producer of the documentary film, [*The Doctrine of Discovery: Unmasking the Domination Code*](https://vimeo.com/ondemand/dominationcode), directed by Sheldon Wolfchild (Dakota), and Director of [Original Free Nations](https://originalfreenations.com/)
-*   [How the Haudenosaunee The Great Law of Peace Influenced the Foundining of the US](https://www.pbs.org/native-america/blogs/native-voices/how-the-iroquois-great-law-of-peace-shaped-us-democracy/) via PBS
+*   [Indigenous Values Initiative](https://indigenousvalues.org/)
+    *   [Mother Earth's Pandemic: The Doctrine of Discovery](https://doctrineofdiscovery.org/event/education/mother-earths-pandemic/) a landmark conference on the Doctrine of Christian Discovery.
+*   [Doctrine of Discovery](https://doctrineofdiscovery.org/)
+    *   [Papal Bulls](https://doctrineofdiscovery.org/papal-bulls/)
+    *   [Doctrine of Discovery in Law](https://doctrineofdiscovery.org/faith-communities/)
+    *   [Doctrine of Discovery at the UN](https://doctrineofdiscovery.org/united-nations/)
+    *   [Repudiating the Doctrine of Discovery](https://doctrineofdiscovery.org/faith-communities/)
+*   [Onondaga Nation](https://www.onondaganation.org/)
+    *   [Learn more about Onondaga Nation reading the Neighbors of Onondaga Nation booklet (PDF)](https://indigenousvalues.org/product/noon-digital/)
+*   Philip P. Arnold, _[The Gift of Sports](https://titles.cognella.com/the-gift-of-sports-9781621310471.html)_, (San Diego: Cognella, 2012)
+*   Steven T. Newcomb _[Pagans in the Promised Land](https://www.chicagoreviewpress.com/pagans-in-the-promised-land-products-9781555916428.php)_ (Chicago: Chicago Review Press Fulcrum, 2008).
+*   Sheldon Wolfchild (Dakota) and Steven T. Newcomb (Shawnee/Lenape) [_The Doctrine of Discovery: Unmasking the Domination Code_](https://doctrineofdiscovery.org/the-doctrine-of-discovery-unmasking-the-domination-code/)
+*   [Three Sisters Gardening](https://gardening.cals.cornell.edu/lessons/curricula/the-three-sisters-exploring-an-iroquois-garden/)
+*   [Sullivan Clinton Campaign](https://www.sullivanclinton.com/)
+*   Amazonian topsoil
+    *   Silva, L.C.R., Corrêa, R.S., Wright, J.L. \__et al.\__A new hypothesis for the origin of Amazonian Dark Earths. \__Nat Commun_\_ **12,** 127 (2021). [https://doi.org/10.1038/s41467–020–20184–2](https://doi.org/10.1038/s41467–020–20184–2)
+*   [Why Removing Columbus Matters: From Foundational Narratives of Domination to Inclusivity](https://www.aprilonline.org/why-removing-columbus-matters/), _The Commons_, The Association for Public Religion and Intellectual Life, 2021.
+*   [Forming a “More Perfect Union” Through Indigenous Values](https://orionmagazine.org/2020/09/forming-a-more-perfect-union-through-indigenous-values/), _Orion Magazine_, 2020.
+*   [How the Haudenosaunee The Great Law of Peace Influenced the Founding of the US](https://www.pbs.org/native-america/blogs/native-voices/how-the-iroquois-great-law-of-peace-shaped-us-democracy/) via PBS
+
+## Credits
+- **Music**: Onondaga Social Dance songs performed by Orris Edwards and Regis Cook
+
+
+
+## Suggested Citation
+Philip P. Arnold and Sandra Bigtree, "Episode 0 - Introduction to Mapping the Doctrine of Discovery Podcast," _Mapping The Doctrine of Discovery_ (Podcast), February 12, 2022. https://podcast.doctrineofdiscovery.org/episodes/episode-0/.
