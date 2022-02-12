@@ -42,6 +42,7 @@ seo:
       value: images/post-10.jpg
       relativeUrl: true
 layout: post
+published: false
 ---
 ## Introduction and Summary
 
