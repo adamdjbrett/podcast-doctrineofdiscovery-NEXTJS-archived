@@ -28,7 +28,8 @@ seo:
       relativeUrl: true
 layout: page
 ---
-![Me doing live podcast](/images/mapping-doctrine-of-discovery-favicon.png)
+![Our Podcasts Cover Art](/images/mapping-doctrine-of-discovery-favicon.png)
+
 
 We launch this Podcast with Columbus’ arrival to the “New World.” This event issued forth the “Age of Discovery.” Although we were taught Columbus was in search of spices, he was actually sailing under 15<sup>th</sup> century Papal edicts known as the Doctrines of Christian Discovery [DOCD], decreeing that explorers were “…to invade, search out, capture, vanquish, and subdue all Saracens [Muslims] and pagans whatsoever, and other enemies of Christ…to reduce their persons to perpetual slavery,…[and] convert them to his use and profit…”
 
