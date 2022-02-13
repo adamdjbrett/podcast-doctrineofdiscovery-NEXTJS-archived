@@ -65,13 +65,13 @@ Ginsburg’s footnote further illustrates how the Doctrine of Christian Discover
 
 Turning from law Arnold and Bigtree move on to examining the religious dimensions of the Doctrine of Christian Discovery. To understand how the doctrine functions, one must understand how it combines Christianity and law together in an attempt to undermine Indigenous sovereignty. The Doctrine of Christian Discovery is not only about law and land but also about religious observance and the separation between church and state. Bigtree puts it eloquently:
 
-The Doctrine of Discovery justified the conversion of native people. When they came into Haudenosaunee territory, specifically Onondaga, they arrived with a deed to 600 square miles of land, right in the heart of Onondaga Nation territory. This is sacred land. It’s a sacred lake where thousands of years ago, a peacemaker came and provided the instructions on how separate Indian Nations could unite under this law of peace, these principles of peace (00:12:47).
+  > The Doctrine of Discovery justified the conversion of native people. When they came into Haudenosaunee territory, specifically Onondaga, they arrived with a deed to 600 square miles of land, right in the heart of Onondaga Nation territory. This is sacred land. It’s a sacred lake where thousands of years ago, a peacemaker came and provided the instructions on how separate Indian Nations could unite under this law of peace, these principles of peace (00:12:47).
 
 Highlighting the circulation of power and influence Arnold and Bigtree talk about how the Doctrine of Christian Discovery has impacted Deyhontsigwa’ehs/lacrosse, (00:17:50).
 
 Returning to the religious dimensions of the Doctrine of Discovery, Prof. Arnold defines the Doctrine of Christian Discovery as **theology of conquest**. A theology of conquest is:
 
-So, this is what we refer to as the theology of conquest and the deep cultural factors in our society today that are driving us towards the end \[i.e., the Apocalypse\] have their root in the Doctrine of Discovery. And even though it has been traumatic for so many people around the world, it’s been \[more\] traumatic for Indigenous Peoples around the world, it’s what motivated the assimilationist movement in the 20th century, where various Christian denominations were setting up Indian boarding schools around the world but particularly here in the United States and Canada (22:39).
+  > So, this is what we refer to as the theology of conquest and the deep cultural factors in our society today that are driving us towards the end \[i.e., the Apocalypse\] have their root in the Doctrine of Discovery. And even though it has been traumatic for so many people around the world, it’s been \[more\] traumatic for Indigenous Peoples around the world, it’s what motivated the assimilationist movement in the 20th century, where various Christian denominations were setting up Indian boarding schools around the world but particularly here in the United States and Canada (22:39).
 
 Having defined and discussed the theology of conquest which animated the Doctrine of Christian Discovery, Arnold and Bigtree place it in juxtaposition with Indigenous values and religions (a concept which is complicated for Indigenous nations 00:31:48). After an important comparison and contrast between Haudenosaunee values and a Christian theology of conquest, Arnold and Bigtree move on to how the theology of conquest becomes part of the economy and consumerism (00:44:19). The theology of conquest and its profit economy are in contradistinction to the Indigenous gift economy.
 
@@ -98,7 +98,7 @@ By way of conclusion Arnold and Bigtree return to the root causes of the Doctrin
     *   Mohawk, Oneida, Onondaga, Cayuga, and Seneca. Later the Tuscarora nation joined.
 *   Gift Economy, (Cf. _The Gift of Sports_)
 
-## **Key People** 
+## **Key People**
 
 *   [Tadodaho Sidney Hill](https://indigenousvalues.org/mother-earths-pandemic-speaker-bios/)
 *   [Onondaga Nation Turtle Clan Faithkeeper Oren Lyons](https://news.syr.edu/blog/2020/07/29/oren-lyons-58-h93-headlines-august-conversations-about-the-doctrine-of-discovery/)
