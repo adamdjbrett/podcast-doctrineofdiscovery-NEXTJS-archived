@@ -96,6 +96,7 @@ export default class Body extends React.Component {
                     <meta name="google" content="notranslate" />
                     <meta name="description" content={seoDescription} />
                     <meta name="msvalidate.01" content="D927D4DCA9938C1F2F92C3D5D6AC8BDF" />
+                    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
                     {!_.isEmpty(seoRobots) && <meta name="robots" content={seoRobots} />}
                     {seoExtra}
                     {this.renderFontUrl(style, font)}
