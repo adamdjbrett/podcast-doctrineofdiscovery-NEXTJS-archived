@@ -1,4 +1,5 @@
 # Mapping the Doctrine of Discovery Podcast
+[![Netlify Status](https://api.netlify.com/api/v1/badges/51b2af19-877f-4c58-8922-011e5d9cdaf9/deploy-status)](https://app.netlify.com/sites/podcast-doctrineofdiscovery/deploys)
 
 ## Technology Stack
 
