@@ -37,6 +37,7 @@ export default class Header extends React.Component {
 
     handleMenuToggle(event) {
         event.preventDefault();
+        console.log('abc')
         document.body.classList.toggle('js-nav-open');
     }
 
