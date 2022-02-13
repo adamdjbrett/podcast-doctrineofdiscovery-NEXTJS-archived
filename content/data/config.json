@@ -10,7 +10,7 @@
         "title": "Mapping the Doctrine of Discovery",
         "logo": "/images/dod-podcast-logo.svg",
         "logo_alt": "Mapping the doctrine of discovery logo",
-        "has_primary_nav": false,
+        "has_primary_nav": true,
         "primary_nav_links": [
             {
                 "label": "Episodes",
