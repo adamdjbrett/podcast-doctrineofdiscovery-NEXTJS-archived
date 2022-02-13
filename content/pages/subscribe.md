@@ -49,13 +49,13 @@ sections:
         content_align: center
         actions:
           - label: Subscribe
-            url: https://overcast.fm/itunes1609802758
+            url: https://pca.st/ah3neigt
             style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/icon-3.svg
+        image: images/pocketcasts.svg
         image_alt: Overcast icon
         image_position: top
         image_align: center
