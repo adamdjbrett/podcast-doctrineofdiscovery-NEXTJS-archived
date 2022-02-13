@@ -7,10 +7,10 @@ sections:
       Presented by the Indigenous Values Initiative, American Indian Law
       Alliance.
     content: |
-      Target podcast audience information
+      Helping listeners contextualize the Doctrine of Discovery.
     actions:
       - label: Subscribe to Podcast
-        url: /thank-you
+        url: /subscribe
         style: primary
     image: /images/mapping-doctrine-of-discovery-favicon.png
     image_alt: >-
@@ -55,7 +55,7 @@ sections:
         content_align: center
         actions:
           - label: Subscribe
-            url: /thank-you
+            url: https://podcasts.apple.com/us/podcast/mapping-the-doctrine-of-discovery/id1609802758
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -71,7 +71,7 @@ sections:
         content_align: center
         actions:
           - label: Subscribe
-            url: /thank-you
+            url: https://open.spotify.com/show/5VoYjujmNFCYS89vSsgl1c
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -87,7 +87,7 @@ sections:
         content_align: center
         actions:
           - label: Subscribe
-            url: /thank-you
+            url: https://overcast.fm/itunes1609802758
             style: secondary
             has_icon: true
             icon: arrow-right

@@ -25,13 +25,7 @@
             {
                 "label": "Land",
                 "url": "/land",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
+                "style": "link"
             },
             {
                 "label": "Learn More",
@@ -155,12 +149,12 @@
     },
     "announcement": {
         "has_anncmnt": false,
-        "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
+        "anncmnt_content": "Part of the Doctrine of Discovery Project **[Learn More](https://doctrineofdiscovery.org/)**",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-episode"
     },
-    "domain": "https://doctrine-discovery-podcast-rev2-1812d.netlify.app",
+    "domain": "https://podcast.doctrineofdiscovery.org",
     "favicon": "/images/mapping-doctrine-of-discovery-favicon.png"
 }
