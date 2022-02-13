@@ -1,4 +1,9 @@
 [build]
-publish = ".next"
+publish = "out"
 command = "npm run build"
-environment = { NODE_VERSION = "12" }
+
+[[plugins]]
+package = "netlify-plugin-cache-nextjs"
+
+[build.environment]
+NETLIFY_NEXT_PLUGIN_SKIP = "true"
