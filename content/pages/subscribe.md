@@ -44,7 +44,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Overcast
+      - title: PocketCast
         title_align: center
         content_align: center
         actions:
@@ -56,7 +56,7 @@ sections:
             icon_position: right
         actions_align: center
         image: images/pocketcasts.svg
-        image_alt: Overcast icon
+        image_alt: PocketCast icon
         image_position: top
         image_align: center
         image_has_padding: true

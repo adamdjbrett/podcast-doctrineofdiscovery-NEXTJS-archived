@@ -82,7 +82,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Overcast
+      - title: PocketCast
         title_align: center
         content_align: center
         actions:
