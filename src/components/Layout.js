@@ -93,6 +93,8 @@ export default class Body extends React.Component {
                     <title>{title}</title>
                     <meta charSet="utf-8" />
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
+                    <meta name="msvalidate.01" content="D927D4DCA9938C1F2F92C3D5D6AC8BDF" />
+                    <meta name="yandex-verification" content="311758dcf1288c92" />
                     <meta name="google" content="notranslate" />
                     <meta name="description" content={seoDescription} />
                     {!_.isEmpty(seoRobots) && <meta name="robots" content={seoRobots} />}
