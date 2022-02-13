@@ -8,7 +8,7 @@
     "develop": "next dev",
     "fetch": "sourcebit fetch",
     "build": "next build && next export",
-    "start": "next start"
+    "start": "next start -p $PORT"
   },
   "dependencies": {
     "babel-runtime": "^6.26.0",
