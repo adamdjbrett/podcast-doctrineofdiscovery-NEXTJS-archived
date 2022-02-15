@@ -1,47 +1,5 @@
 ---
 title: Contact
-#sections:
-#  - type: form_section
-#    content: |-
-#      ## Ask A Question
-#      Thank you for your interest in the Doctrine of Discovery Project you can contact us at info@doctrineofdiscovery.org.
-#    content_align: left
-#    form_position: right
-#    form_width: fifty
-#    form_layout: inline
-#    enable_card: true
-#    form_id: contact-form
-#    form_action: /thank-you
-#    form_fields:
-#      - input_type: text
-#        name: name
-#        label: Name
-#        default_value: Your name
-#        is_required: true
-#      - input_type: email
-#        name: email
-#        label: Email
-#        default_value: Your email address
-#        is_required: true
-#      - input_type: textarea
-#        name: message
-#        label: Question
-#        default_value: Your question
-#      - input_type: checkbox
-#        name: consent
-#        label: >-
-#          I understand that this form is storing my submitted information so I
-#          can be contacted.
-#        is_required: true
-#    submit_label: Submit
-#    align_vert: top
-#    padding_top: medium
-#    padding_bottom: medium
-#    background_color: none
-#    background_image: images/pattern.svg
-#    background_image_repeat: repeat
-#    background_image_size: auto
-#    background_image_opacity: 98
 seo:
   title: Contact
   description: This is the about page
@@ -72,15 +30,7 @@ layout: page #advanced enables the YAML form
 ---
 Thank you for your interest in the Doctrine of Discovery Project you can contact us at info@doctrineofdiscovery.org
 
-<form
-    name="simpleContactForm"
-    method="POST"
-    action="/thank-you"
-    data-netlify="true"
-    data-netlify-recaptcha="true"
-    id="simple-contact-form"
-    class="contact-form"
->
+<form name="simpleContactForm" method="POST" action="/thank-you" data-netlify="true" id="simple-contact-form" class="contact-form">
     <p class="form-row">
         <label id="contact-form-name-label" for="contact-form-name" class="form-label">Name</label>
         <input type="text" name="name" id="contact-form-name" aria-labelledby="contact-form-name-label" class="form-input" />
@@ -91,13 +41,8 @@ Thank you for your interest in the Doctrine of Discovery Project you can contact
     </p>
     <p class="form-row">
         <label id="contact-form-message-label" for="contact-form-message" class="form-label">Message</label>
-        <textarea
-            name="message"
-            id="contact-form-message"
-            aria-labelledby="contact-form-message-label"
-            class="form-textarea"
-            rows="7"
-        ></textarea>
+        <textarea name="message" id="contact-form-message" aria-labelledby="contact-form-message-label" class="form-textarea" rows="7">
+        </textarea>
     </p>
     <div data-netlify-recaptcha="true" class="form-row"></div>
     <p class="form-row form-submit">
