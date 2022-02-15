@@ -30,6 +30,7 @@ layout: page #advanced enables the YAML form
 ---
 Thank you for your interest in the Doctrine of Discovery Project you can contact us at info@doctrineofdiscovery.org
 
+
 <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
     <p class="hidden">
         <label> Don’t fill this out if you’re human: <input name="bot-field" /> </label>
