@@ -83,7 +83,7 @@ seo:
       value: This is the subscribe page
       keyName: property
     - name: og:image
-      value: images/about.png
+      value: images/mapping-doctrine-of-discovery-favicon.png
       keyName: property
       relativeUrl: true
     - name: twitter:card
@@ -93,7 +93,7 @@ seo:
     - name: twitter:description
       value: This is the subscribe page
     - name: twitter:image
-      value: images/about.png
+      value: images/mapping-doctrine-of-discovery-favicon.png
       relativeUrl: true
 layout: advanced
 ---
