@@ -30,7 +30,7 @@ layout: page #advanced enables the YAML form
 ---
 Thank you for your interest in the Doctrine of Discovery Project you can contact us at info@doctrineofdiscovery.org
 
-<form name="podcast-contact" method="POST" action="/thank-you" data-netlify="true">
+<form name="podcast-contact" method="POST" action="/thank-you/" data-netlify="true">
   <p>
     <label>Your Name: <input type="text" name="name" /></label>   
   </p>
