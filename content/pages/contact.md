@@ -14,7 +14,7 @@ seo:
       value: This is the about page
       keyName: property
     - name: 'og:image'
-      value: images/about.png
+      value: images/mapping-doctrine-of-discovery-favicon.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -24,12 +24,11 @@ seo:
     - name: 'twitter:description'
       value: This is the about page
     - name: 'twitter:image'
-      value: images/about.png
+      value: images/mapping-doctrine-of-discovery-favicon.png
       relativeUrl: true
 layout: page #advanced enables the YAML form
 ---
 Thank you for your interest in the Doctrine of Discovery Project you can contact us at info@doctrineofdiscovery.org
-
 
 <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
     <p class="hidden">
