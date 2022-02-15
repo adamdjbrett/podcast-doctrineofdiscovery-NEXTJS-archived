@@ -1,19 +1,34 @@
 ---
 title: Contact
-sections:
-  - type: hero_section
-    title: Contact us
-    subtitle: >-
-      Contact the Doctrine of Discovery Project at contact@doctrineofdiscovery.org or by using the form below.
-#    actions:
-#      - label: Back to homepage
-#        url: /
-#        style: primary
-#    align: center
-#    padding_bottom: large
-#    background_color: none
-layout: advanced
+seo:
+  title: About
+  description: This is the about page
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
+    - name: 'og:title'
+      value: About
+      keyName: property
+    - name: 'og:description'
+      value: This is the about page
+      keyName: property
+    - name: 'og:image'
+      value: images/about.png
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
+      value: About
+    - name: 'twitter:description'
+      value: This is the about page
+    - name: 'twitter:image'
+      value: images/about.png
+      relativeUrl: true
+layout: page
 ---
+
 <form
     name="contactForm"
     method="POST"
