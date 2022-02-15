@@ -28,7 +28,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-
+Thank you for your interest in the Doctrine of Discovery Project you can contact us at info@doctrineofdiscovery.org
 <form
     name="contactForm"
     method="POST"
