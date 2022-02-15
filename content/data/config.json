@@ -28,6 +28,11 @@
                 "style": "link"
             },
             {
+                "label": "Contact",
+                "url": "/contact",
+                "style": "link"
+            },
+            {
                 "label": "Learn More",
                 "url": "https://doctrineofdiscovery.org/",
                 "style": "link"
