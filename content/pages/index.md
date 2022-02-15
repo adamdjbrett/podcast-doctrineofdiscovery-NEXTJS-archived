@@ -143,47 +143,48 @@ sections:
     grid_gap_vert: medium
     has_border: true
     background_color: none
-    - type: form_section
-      content: |-
-        ## Ask A Question
-        I'm OK with any kind of questions and will answer as many as I possibly can.
-      content_align: left
-      form_position: right
-      form_width: fifty
-      form_layout: inline
-      enable_card: true
-      form_id: contact-form
-      form_action: /thank-you
-      form_fields:
-        - input_type: text
-          name: name
-          label: Name
-          default_value: Your name
-          is_required: true
-        - input_type: email
-          name: email
-          label: Email
-          default_value: Your email address
-          is_required: true
-        - input_type: textarea
-          name: message
-          label: Question
-          default_value: Your question
-        - input_type: checkbox
-          name: consent
-          label: >-
-            I understand that this form is storing my submitted information so I
-            can be contacted.
-          is_required: true
-      submit_label: Submit
-      align_vert: top
-      padding_top: medium
-      padding_bottom: medium
-      background_color: none
-      background_image: images/pattern.svg
-      background_image_repeat: repeat
-      background_image_size: auto
-      background_image_opacity: 98
+  - type: form_section
+    content: |
+      ## Subscribe
+
+      Stay current and learn more by joining our email list.
+    content_align: left
+    form_position: right
+    form_width: fifty
+    form_layout: inline
+    enable_card: true
+    form_id: contact-form
+    form_action: /thank-you
+    form_fields:
+      - input_type: text
+        name: name
+        label: Name
+        default_value: Your name
+        is_required: true
+      - input_type: email
+        name: email
+        label: Email
+        default_value: Your email address
+        is_required: true
+      - input_type: textarea
+        name: message
+        label: Question
+        default_value: Your question
+      - input_type: checkbox
+        name: consent
+        label: >-
+          I understand that this form is storing my submitted information so I
+          can be contacted.
+        is_required: true
+    submit_label: Submit
+    align_vert: top
+    padding_top: medium
+    padding_bottom: medium
+    background_color: none
+    background_image: images/pattern.svg
+    background_image_repeat: repeat
+    background_image_size: auto
+    background_image_opacity: 98
 seo:
   title: Mapping the Doctrine of Discovery Podcast
   description: >-
