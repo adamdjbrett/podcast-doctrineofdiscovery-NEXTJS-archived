@@ -2,7 +2,7 @@
 title: Contact
 seo:
   title: About
-  description: This is the about page
+  description: This is the contact page
   extra:
     - name: 'og:type'
       value: website
@@ -29,6 +29,8 @@ seo:
 layout: page
 ---
 
+Thank you for your interest in the Doctrine of Discovery Podcast. You can reach us at contact@doctrineofdiscovery.org or by filling out the form below.
+
 <form
     name="contactForm"
     method="POST"
@@ -38,9 +40,9 @@ layout: page
     id="contact-form"
     className="contact-form"
 >
-    <p className="screen-reader-text">
+  <!--  <p className="screen-reader-text">
         <label>Don't fill this out if you're human: <input name="bot-field" /></label>
-    </p>
+    </p> -->
     <p className="form-row">
         <label htmlFor="contact-form-name" className="form-label">Name</label>
         <input type="text" name="name" id="contact-form-name" className="form-input" />
