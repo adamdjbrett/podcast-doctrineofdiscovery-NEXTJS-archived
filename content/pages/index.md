@@ -203,7 +203,7 @@ seo:
         of Christian Discovery and Domination and its influence on US law.
       keyName: property
     - name: 'og:image'
-      value: /images/onondaga-lake-east-shoreline.jpg
+      value: /images/mapping-doctrine-of-discovery-favicon.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -215,7 +215,7 @@ seo:
         Mapping the Doctrine of Discovery Podcast. Contextualizing the Doctrine
         of Christian Discovery and Domination and its influence on US law.
     - name: 'twitter:image'
-      value: /images/onondaga-lake-east-shoreline.jpg
+      value: /images/mapping-doctrine-of-discovery-favicon.png
       relativeUrl: true
 layout: advanced
 ---
