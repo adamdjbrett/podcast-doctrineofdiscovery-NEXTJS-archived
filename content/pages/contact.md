@@ -68,6 +68,6 @@ seo:
     - name: 'twitter:image'
       value: images/about.png
       relativeUrl: true
-layout: page
+layout: advanced
 ---
 Thank you for your interest in the Doctrine of Discovery Project you can contact us at info@doctrineofdiscovery.org
