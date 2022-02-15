@@ -29,18 +29,3 @@ seo:
 layout: page #advanced enables the YAML form
 ---
 Thank you for your interest in the Doctrine of Discovery Project you can contact us at info@doctrineofdiscovery.org
-
-<form name="podcast-contact" method="POST" data-netlify="true">
-  <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-  <textarea name="message" id="message" placeholder="Write your message here" rows="7" required></textarea>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form>
