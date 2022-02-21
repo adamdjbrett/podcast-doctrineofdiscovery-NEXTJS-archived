@@ -42,20 +42,21 @@ Following 15<sup>th</sup> century Christian imperialism, through to the 19<sup>t
 The goal of this Podcast is to help identify these systems of domination that have been sustained by greed and power, through the subjugation of human beings and the natural world.
 
 ## Sponsors
-*   Henry Luce Foundation
 
-*   Syracuse University Engaged Humanities
+*   [Henry Luce Foundation](https://www.hluce.org/)
 
-*   Syracuse University Department of Religion
+*   [Syracuse University Engaged Humanities](https://thecollege.syr.edu/engaged-humanities/)
 
-*   Indigenous Values Initiative
+*   [Syracuse University Department of Religion](https://thecollege.syr.edu/religion/)
 
-*   American Indian Law Alliance
+*   [Indigenous Values Initiative](https://indigenousvalues.org/)
+
+*   [American Indian Law Alliance](http://aila.ngo/)
 
 ## Credits
 
 *   Onondaga Social Dance songs performed by Orris Edwards and Regis Cook
 
-*   Hosts: Philip P. Arnold and Sandy Bigtree
+*   Hosts: [Philip P. Arnold and Sandy Bigtree](https://indigenousvalues.org/about/our-team/)
 
-*   Producers: Jordan Brady Loewen and Adam DJ Brett
+*   Producers: [Jordan Loewen-Colón](https://www.jordanbradyloewen.com/) and [Adam DJ Brett](https://adamdjbrett.com/)
