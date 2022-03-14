@@ -2,7 +2,7 @@
 title: "Episode 01: The Legal Framework of the Doctrine of Christian Discovery in Practice"
 subtitle: >-
   Our hosts (Philip P. Arnold & Sandy Bigtree) speak with Onondaga Nation General Counsel Joe Heath.
-date: '2022-02-12'
+date: '2022-03-14'
 categories:
   - content/data/categories/season-1.yaml
 tags: []
@@ -194,4 +194,4 @@ By way of conclusion and offering hope for a better future Heath writes,
 
 
 ## Suggested Citation
-Philip P. Arnold and Sandra Bigtree, "Episode 01 - The Legal Framework of the Doctrine of Christian Discovery in Practice," _Mapping The Doctrine of Discovery_ (Podcast), February 12, 2022. https://podcast.doctrineofdiscovery.org/episodes/episode-01/.
+Philip P. Arnold and Sandra Bigtree, "Episode 01 - The Legal Framework of the Doctrine of Christian Discovery in Practice," _Mapping The Doctrine of Discovery_ (Podcast), March 14, 2022. https://podcast.doctrineofdiscovery.org/episodes/episode-01/.
