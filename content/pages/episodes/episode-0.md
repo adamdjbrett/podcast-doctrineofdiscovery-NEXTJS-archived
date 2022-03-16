@@ -130,6 +130,7 @@ By way of conclusion Arnold and Bigtree return to the root causes of the Doctrin
 
 ## Credits
 - **Music**: Onondaga Social Dance songs performed by Orris Edwards and Regis Cook
+- Producers: Jordan Loewen-Colón and Adam DJ Brett
 
 
 ## Suggested Citation
