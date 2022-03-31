@@ -62,7 +62,8 @@ Enslavement, exploitation, and extraction are all inter-connected and US Law con
 
 
 Insert map image and provide link and credit line:
-![French Map of the US from 1779](/images/iiif-service_gmd_gmd370_g3700_g3700_ar073700-full-pct_12.5-0-default.jpg)
+
+![French Map of the US from 1779](/images/iiif-service_gmd_gmd3_g3300_g3300_ar010700-full-pct_12.5-0-default.jpg)
 
 Credit Line: [Library of Congress, Geography and Map Division](https://www.loc.gov/item/gm71005489/)
 
