@@ -21,7 +21,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Episode 02: The Doctrine Of Christian Discovery As An Ideological And Legal Framework With Steven T. Newcomb
+      value: "Episode 02 - The Doctrine Of Christian Discovery As An Ideological And Legal Framework With Steven T. Newcomb"
       keyName: property
     - name: 'og:description'
       value: >-
@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Episode 02: The Doctrine Of Christian Discovery As An Ideological And Legal Framework With Steven T. Newcomb
+      value: "Episode 02 - The Doctrine Of Christian Discovery As An Ideological And Legal Framework With Steven T. Newcomb"
     - name: 'twitter:description'
       value: >-
           Our hosts Philip P. Arnold and Sandy Bigtree (Mohawk Nation) speak with Steven T. Newcomb.
