@@ -13,7 +13,7 @@ image_position: left
 episode_embed_html: >-
   <div id="buzzsprout-player-10786354"></div><script src="https://www.buzzsprout.com/1926214/10786354-episode-02-the-doctrine-of-christian-discovery-as-an-ideological-and-legal-framework-with-steven-t-newcomb.js?container_id=buzzsprout-player-10786354&player=small" type="text/javascript" charset="utf-8"></script>
 seo:
-  title: Episode 01 - The Legal Framework of the Doctrine of Christian Discovery in Practice
+  title: "Episode 02: The Doctrine Of Christian Discovery As An Ideological And Legal Framework With Steven T. Newcomb"
   description: >-
     Our hosts Philip P. Arnold and Sandy Bigtree (Mohawk Nation) speak with Onondaga Nation General Counsel Joe Heath.
   extra:
