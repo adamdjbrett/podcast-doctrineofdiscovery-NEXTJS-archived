@@ -192,7 +192,9 @@ By way of conclusion and offering hope for a better future Heath says,
 
 ## Credits
 - **Music**: Onondaga Social Dance songs performed by Orris Edwards and Regis Cook
-- Producers: Jordan Loewen-Colón and Adam DJ Brett
+- **Producers**: Jordan Loewen-Colón and Adam DJ Brett
+- **Show notes**: Adam DJ Brett
+
 
 
 ## Suggested Citation

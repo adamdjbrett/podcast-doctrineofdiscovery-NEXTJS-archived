@@ -109,8 +109,10 @@ Newcomb concludes the podcast episode turning our attention to the Apache sacred
 
 ## Credits
 
-*   **Music**: Onondaga Social Dance songs performed by Orris Edwards and Regis Cook
-*   Producers: Jordan Loewen-Colón and Adam DJ Brett
+- **Music**: Onondaga Social Dance songs performed by Orris Edwards and Regis Cook
+- **Producers**: Jordan Loewen-Colón and Adam DJ Brett
+- **Show notes**: Adam DJ Brett
+
 
 ## Citation
 
