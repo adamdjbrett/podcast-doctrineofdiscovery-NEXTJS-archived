@@ -46,7 +46,7 @@ thumb_image: /images/mapping-doctrine-of-discovery-favicon.png
 image: /images/mapping-doctrine-of-discovery-favicon.png
 ---
 
-[Download a transcript of Episode 1 as a PDF](/pdfs/Episode-01-The-Legal-Framework-of-the-Doctrine-of-Christian-Discovery-in-Practice.pdf)
+[⤓ Download a transcript of Episode 1 as a PDF](/pdfs/Episode-01-The-Legal-Framework-of-the-Doctrine-of-Christian-Discovery-in-Practice.pdf)  // [→ Subscribe](/subscribe/)
 
 ## Introduction
 

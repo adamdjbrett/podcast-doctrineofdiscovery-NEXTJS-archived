@@ -46,7 +46,7 @@ thumb_image: /images/mapping-doctrine-of-discovery-favicon.png
 image: /images/mapping-doctrine-of-discovery-favicon.png
 ---
 
-[⤓ Download a transcript of Episode 2 as a PDF](/pdfs/Episode-02-DOCD-An-Ideological-Legal-Framework-with-steve-newcomb.pdf)
+[⤓ Download a transcript of Episode 2 as a PDF](/pdfs/Episode-02-DOCD-An-Ideological-Legal-Framework-with-steve-newcomb.pdf) // [→ Subscribe](/subscribe/)
 
 ## Introduction
 
