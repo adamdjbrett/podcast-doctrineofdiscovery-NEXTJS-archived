@@ -1,5 +1,5 @@
 ---
-title: "Episode 02: The Doctrine Of Christian Discovery As An Ideological And Legal Framework With Steven T. Newcomb"
+title: "Episode 02: The Doctrine Of Christian Discovery As An Ideological And Legal Framework"
 subtitle: >-
   Our hosts (Philip P. Arnold & Sandy Bigtree) speak with Steven T. Newcomb (Shawnee, Lenape) who is the co-founder and co-director of the Indigenous Law Institute.
 date: '2022-06-12'
