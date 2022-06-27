@@ -15,7 +15,7 @@ episode_embed_html: >-
 seo:
   title: "Episode 02: The Doctrine Of Christian Discovery As An Ideological And Legal Framework With Steven T. Newcomb"
   description: >-
-    Our hosts Philip P. Arnold and Sandy Bigtree (Mohawk Nation) speak with Onondaga Nation General Counsel Joe Heath.
+    Our hosts Philip P. Arnold and Sandy Bigtree (Mohawk Nation) speak with OSteven T. Newcomb.
   extra:
     - name: 'og:type'
       value: article
