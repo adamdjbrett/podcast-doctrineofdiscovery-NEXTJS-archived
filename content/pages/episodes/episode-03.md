@@ -2,7 +2,7 @@
 title: "Episode 03: The Doctrine of Discovery in the Mesoamerican Context with Davíd Carrasco"
 subtitle: >-
   Our hosts (Philip P. Arnold & Sandy Bigtree) speak with Davíd Carrasco, the Neil L. Rudenstine Professor of the Study of Latin America, with a joint appointment with the Department of Anthropology in the Faculty of Arts and Sciences at Harvard University and Harvard Divinity School.
-date: '2022-06-12'
+date: '2022-06-27'
 categories:
   - content/data/categories/season-1.yaml
 tags: []
