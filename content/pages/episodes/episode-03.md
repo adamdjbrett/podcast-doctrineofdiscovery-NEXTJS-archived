@@ -121,12 +121,12 @@ Turning to the contemporary period Arnold asks Carrasco where do you see the Doc
 ### Resources
 
 *   Philip P. Arnold and Sandra Bigtree, [_Why Removing Columbus Matters: From Foundational Narratives Of Domination To Inclusivity_](https://www.aprilonline.org/why-removing-columbus-matters/), _APRIL Online_.
-*   Davíd Carrasco’s
-    *   _Religions of Mesoamerica_, _City of Sacrifice_, and 
+*   Davíd Carrasco’s books
+    *   _Religions of Mesoamerica_, 
+    *   _City of Sacrifice_, and 
     *   _Quetzalcoatl and the Irony of Empire_
-
-*   [_The Aztecs: A Very Short Introduction_](https://global.oup.com/academic/product/the-aztecs-a-very-short-introduction-9780195379389?q=aztec%20carrasco&lang=en&cc=us) (Oxford University Press, 2012)
-*   [_The History of the Conquest of New Spain by Bernal Diaz del Castillo_](http://unmpress.com/books.php?ID=11370044331889) (University of New Mexico Press, 2009)
+    *   [_The Aztecs: A Very Short Introduction_](https://global.oup.com/academic/product/the-aztecs-a-very-short-introduction-9780195379389?q=aztec%20carrasco&lang=en&cc=us) (Oxford University Press, 2012)
+    *   [_The History of the Conquest of New Spain by Bernal Diaz del Castillo_](http://unmpress.com/books.php?ID=11370044331889) (University of New Mexico Press, 2009)
 *   Charles H. Long, _Significations Signs, Symbols, and Images in the Interpretation of Religion__._ (Aurora, Colo: Davies Group, 1999)_._
 *   Louis Menand, _The Free World: Art and Thought in the Cold War_ (New York: Farrar, Straus and Giroux, 2021).
 *   Toni Morrison, _The Source of Self-Regard: Selected Essays, Speeches, and Meditations_ (New York: Knopf, 2019). [NPR Book Review](https://www.npr.org/2019/02/14/694259009/the-source-of-self-regard-speaks-to-todays-social-and-political-moment#:~:text=Press-,Toni%20Morrison's%20'The%20Source%20Of%20Self%2DRegard'%20Speaks%20To,entry%20feels%20strikingly%20relevant%20now.).
