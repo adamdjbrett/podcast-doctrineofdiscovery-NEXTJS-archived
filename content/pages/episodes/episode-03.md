@@ -46,7 +46,7 @@ thumb_image: /images/mapping-doctrine-of-discovery-favicon.png
 image: /images/mapping-doctrine-of-discovery-favicon.png
 ---
 
-[⤓ Download a transcript of Episode 3 as a PDF](/pdfs/Episode-03-The-Doctrine-of-Discovery-in-the-Mesoamerican-Context-Davíd-Carrasco-Transcript-rev1.pdf) // [→ Subscribe](/subscribe/)
+[⤓ Download a transcript of Episode 3 as a PDF](/pdfs/Episode-03-DOCD-Mesoamerican-Carrasco-rev1.pdf) // [→ Subscribe](/subscribe/)
 
 ## Introduction
 
