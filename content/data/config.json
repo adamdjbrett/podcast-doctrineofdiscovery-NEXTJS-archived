@@ -139,6 +139,14 @@
                 "icon": "facebook",
                 "icon_position": "center",
                 "new_window": true
+            },            {
+                "label": "linkedin",
+                "url": "https://www.linkedin.com/showcase/mapping-the-doctrine-of-discovery-podcast/",
+                "style": "link",
+                "has_icon": true,
+                "icon": "linkedin",
+                "icon_position": "center",
+                "new_window": true
             },
             {
                 "label": "Instagram",
