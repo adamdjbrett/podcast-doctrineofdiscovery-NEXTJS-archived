@@ -2,7 +2,7 @@
 title: "Episode 04: Haudenosaunee Influence on the Women’s Rights Movement with Sally Roesch Wagner"
 subtitle: >-
   Our hosts (Philip P. Arnold & Sandy Bigtree) speak with Dr. Sally Roesch Wagner.  Dr. Wagner is the Founder and Executive Director of the Matilda Joslyn Gage Foundation and Center for Social Justice Dialogue in Fayetteville, New York.
-date: '2022-06-27'
+date: '2022-08-03'
 categories:
   - content/data/categories/season-1.yaml
 tags: []
