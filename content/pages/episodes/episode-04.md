@@ -46,7 +46,7 @@ thumb_image: /images/mapping-doctrine-of-discovery-favicon.png
 image: /images/mapping-doctrine-of-discovery-favicon.png
 ---
     
-[⤓ Download a transcript of Episode 4 as a PDF](/pdfs/Episode-04-The Haudenosaunee-influence-womens-movement.pdf) // [→ Subscribe](/subscribe/)
+[⤓ Download a transcript of Episode 4 as a PDF](/pdfs/Episode-04-The-Haudenosaunee-influence-womens-movement.pdf) // [→ Subscribe](/subscribe/)
   
 ## Introduction
   
