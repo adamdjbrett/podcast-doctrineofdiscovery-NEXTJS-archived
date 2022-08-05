@@ -136,10 +136,11 @@ Turning to the contemporary period Arnold asks Carrasco where do you see the Doc
 *   What are contemporary examples of the Doctrine of Christian Discovery?
 *   What are contemporary examples of peacemaking that are in harmony with the natural world?
 
-### **Credits**
+## Credits
 
-*   **Music**: Onondaga Social Dance songs performed by Orris Edwards and Regis Cook
-*   **Producers**: Jordan Loewen-Colón and Adam DJ Brett
+- **Music**: Onondaga Social Dance songs performed by Orris Edwards and Regis Cook
+- **Producers**: Jordan Loewen-Colón and Adam DJ Brett
+- **Show notes**: Adam DJ Brett
 
 ### **Citation**
 
